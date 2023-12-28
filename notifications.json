@@ -1,0 +1,67 @@
+{
+"notificationsData" : [
+  {
+    "id": 1,
+    "message": "Your bid is out of range",
+    "description":
+      "Your bid for HP Note book has dropped below the winning range.",
+    "timestamp": "new Date().toISOString()",
+    "type": "outOfRange",
+  },
+  {
+    "id": 2,
+    "message": "Devices delivered",
+    "description": "Our courier has successfully delivered Your shipment.",
+    "timestamp": "new Date(2023, 11, 27, 11, 33, 30).toISOString()",
+    "type": "deviceDelivered",
+  },
+  {
+    "id": 3,
+    "message": "Your bid is out of range",
+    "description":
+      "Your bid for HP Note book has dropped below the winning range.",
+    "timestamp": "new Date(2023, 11, 27, 10, 24, 30).toISOString()",
+    "type": "outOfRange",
+  },
+  {
+    "id": 4,
+    "message": "Huawei, Nova Series, Nova Y91, 512GB",
+    "description":
+      "Similar to your previous bids, here is a new device you might be interested in.",
+    "timestamp": "new Date(2023, 11, 26, 11, 33, 30).toISOString()",
+    "type": "newDeal",
+  },
+  {
+    "id": 5,
+    "message": "Grade Change Request Updated",
+    "description":
+      "Please provide additional and clear pictures of the device for us to proceed with your request.",
+    "timestamp": "new Date(2023, 11, 25, 11, 33, 30).toISOString()",
+    "type": "gradeChange",
+  },
+  {
+    "id": 6,
+    "message": "Your bid is out of range",
+    "description":
+      "Your bid for HP Note book has dropped below the winning range.",
+    "timestamp": "new Date(2023, 11, 25, 9, 33, 30).toISOString()",
+    "type": "outOfRange",
+  },
+  {
+    "id": 7,
+    "message": "Your bid is out of range",
+    "description":
+      "Your bid for HP Note book has dropped below the winning range.",
+    "timestamp": "new Date(2023, 11, 24, 11, 33, 30).toISOString()",
+    "type": "outOfRange",
+  },
+  {
+    "id": 8,
+    "message": "Your bid is out of range",
+    "description":
+      "Your bid for HP Note book has dropped below the winning range.",
+    "timestamp": "new Date(2023, 11, 23, 11, 33, 30).toISOString()",
+    "type": "outOfRange",
+  },
+]
+}
