@@ -62,6 +62,6 @@
       "Your bid for HP Note book has dropped below the winning range.",
     "timestamp": "new Date(2023, 11, 23, 11, 33, 30).toISOString()",
     "type": "outOfRange",
-  },
+  }
 ]
 }
