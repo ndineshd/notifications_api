@@ -4,56 +4,56 @@
       "id": 1,
       "message": "Your bid is out of range",
       "description": "Your bid for HP Note book has dropped below the winning range.",
-      "timestamp": "2023-12-29T11:13:30.000Z",
+      "timestamp": "2023, 11, 29, 11, 23, 30",
       "type": "outOfRange"
     },
     {
       "id": 2,
       "message": "Devices delivered",
       "description": "Our courier has successfully delivered Your shipment.",
-      "timestamp": "2023-12-29T09:26:30.000Z",
+      "timestamp": "2023, 11, 29, 10, 33, 30",
       "type": "deviceDelivered"
     },
     {
       "id": 3,
       "message": "Your bid is out of range",
       "description": "Your bid for HP Note book has dropped below the winning range.",
-      "timestamp": "2023-12-28T09:26:30.000Z",
+      "timestamp": "2023, 11, 28, 10, 24, 30",
       "type": "outOfRange"
     },
     {
       "id": 4,
       "message": "Huawei, Nova Series, Nova Y91, 512GB",
       "description": "Similar to your previous bids, here is a new device you might be interested in.",
-      "timestamp": "2023-12-29T16:26:30.000Z",
+      "timestamp": "2023, 11, 26, 11, 33, 30",
       "type": "newDeal"
     },
     {
       "id": 5,
       "message": "Grade Change Request Updated",
       "description": "Please provide additional and clear pictures of the device for us to proceed with your request.",
-      "timestamp": "2023-12-27T10:26:30.000Z",
+      "timestamp": "2023, 11, 25, 11, 33, 30",
       "type": "gradeChange"
     },
     {
       "id": 6,
       "message": "Your bid is out of range",
       "description": "Your bid for HP Note book has dropped below the winning range.",
-      "timestamp": "2023-12-26T12:26:30.000Z",
+      "timestamp": "2023, 11, 25, 9, 33, 30",
       "type": "outOfRange"
     },
     {
       "id": 7,
       "message": "Your bid is out of range",
       "description": "Your bid for HP Note book has dropped below the winning range.",
-      "timestamp": "2023-12-23T11:26:30.000Z",
+      "timestamp": "2023, 11, 24, 11, 33, 30",
       "type": "outOfRange"
     },
     {
       "id": 8,
       "message": "Your bid is out of range",
       "description": "Your bid for HP Note book has dropped below the winning range.",
-      "timestamp": "2023-12-20T09:26:30.000Z",
+      "timestamp": "2023, 11, 23, 11, 33, 30",
       "type": "outOfRange"
     }
   ]
