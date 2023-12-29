@@ -4,7 +4,7 @@
       "id": 1,
       "message": "Your bid is out of range",
       "description": "Your bid for HP Note book has dropped below the winning range.",
-      "timestamp": ,
+      "timestamp": "29-Dec-2023 12:46:30 AM",
       "type": "outOfRange"
     },
     {
