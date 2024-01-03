@@ -55,6 +55,14 @@
       "description": "Your bid for HP Note book has dropped below the winning range.",
       "timestamp": "20-Dec-2023 11:26:30 AM",
       "type": "outOfRange"
+    },
+    {
+      "id": 9,
+      "message": "New Hot Deal on Samsung S21 Ultra",
+      "description": "Bid on the latest Samsung galaxies in almost flawless conditions",
+      "timestamp": "28-Nov-2023 12:48:22 PM",
+      "type": "SamsungS21Ultra",
+      "image-url": "/samsung-s21-ultra.png"
     }
   ]
 }
