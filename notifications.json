@@ -4,21 +4,21 @@
       "id": 1,
       "message": "Your bid is out of range",
       "description": "Your bid for HP Note book has dropped below the winning range.",
-      "timestamp": "17-Jan-2024 06:03:30 PM",
+      "timestamp": "17-Jan-2024 06:09:30 PM",
       "type": "outOfRange"
     },
     {
       "id": 2,
       "message": "Devices delivered",
       "description": "Our courier has successfully delivered Your shipment.",
-      "timestamp": "17-Jan-2024 05:49:30 AM",
+      "timestamp": "17-Jan-2024 06:07:30 PM",
       "type": "deviceDelivered"
     },
     {
       "id": 3,
       "message": "Your bid is out of range",
       "description": "Your bid for HP Note book has dropped below the winning range.",
-      "timestamp": "17-Jan-2024 02:49:30 AM",
+      "timestamp": "17-Jan-2024 03:07:30 PM",
       "type": "outOfRange"
     },
     {
